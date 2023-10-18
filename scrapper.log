@@ -1,0 +1,316 @@
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:18:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:18:28] "[33mGET /red HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:18:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:log my final result [{'Product': 'computer', 'ProductName': 'HP Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Win...', 'Price': '\u20b935,990', 'Name': 'SHYAM SUNDAR  GANDHI ', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Very nice product \U0001f4ab\U0001f4abREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Win...', 'Price': '\u20b935,990', 'Name': 'Bunty Kawde', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Very Nice product, liked it very much , very fast , Battery life is good and speed of processing is also nice , Value worth....READ MORE'}, {'Product': 'computer', 'ProductName': 'HP Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Win...', 'Price': '\u20b935,990', 'Name': 'Saurabh  Dixit', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Good processing speed, better display quality, good battery backup, overall better performance in this price range.READ MORE'}, {'Product': 'computer', 'ProductName': 'HP Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows ...', 'Price': '\u20b941,990', 'Name': 'Sakthivel Chinnathambi', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good oneREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows ...', 'Price': '\u20b941,990', 'Name': 'Sahil Saini', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "Light laptop with sleek design. Everything's good about this laptop at this price range. It is well suited for programmers and for light gaming.READ MORE"}, {'Product': 'computer', 'ProductName': 'HP Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows ...', 'Price': '\u20b941,990', 'Name': 'Manish  Singhal', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "Everything is Good about this Laptop but if you are display lover I'll not recomond anyone. Best budget laptop I purchased in big billion Sale.. Go For itREAD MORE"}, {'Product': 'computer', 'ProductName': 'Lenovo Legion 5 Pro AMD Ryzen 7 Octa Core 6800H - (32 G...', 'Price': '\u20b91,79,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo Legion 5 Pro AMD Ryzen 7 Octa Core 6800H - (32 G...', 'Price': '\u20b91,79,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo Legion 5 Pro AMD Ryzen 7 Octa Core 6800H - (32 G...', 'Price': '\u20b91,79,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Gaming 3 Intel Core i5 12th Gen 12450H -...', 'Price': '\u20b972,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Gaming 3 Intel Core i5 12th Gen 12450H -...', 'Price': '\u20b972,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Gaming 3 Intel Core i5 12th Gen 12450H -...', 'Price': '\u20b972,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'ASUS Vivobook Go 15 (2023) Ryzen 5 Quad Core 7520U - (8...', 'Price': '\u20b944,990', 'Name': 'Joydeep  Paul', 'Rating': '5', 'CommentHead': 'Very Good', 'Comment': 'Product is \U0001f44d I will review after using 1 monthREAD MORE'}, {'Product': 'computer', 'ProductName': 'ASUS Vivobook Go 15 (2023) Ryzen 5 Quad Core 7520U - (8...', 'Price': '\u20b944,990', 'Name': 'Shaurya  Yaduvanshi', 'Rating': '4', 'CommentHead': 'Highly recommended', 'Comment': "It's goodREAD MORE"}, {'Product': 'computer', 'ProductName': 'ASUS Vivobook Go 15 (2023) Ryzen 5 Quad Core 7520U - (8...', 'Price': '\u20b944,990', 'Name': 'Vikas Chandelia', 'Rating': '1', 'CommentHead': 'Absolute rubbish!', 'Comment': 'Very bad display. Viewing angle is pathetic. I have seen much better display in less priced laptops. I feel like I am looking at a laptop screen from model in year 2000.READ MORE'}]
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:18:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:20:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:20:42] "[33mGET /red HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:20:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:log my final result [{'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b929,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b929,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b929,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b911,990', 'Name': 'Amit  Gupta', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': '1- Superb TV And outstanding Performance compared to its price.2 - Picture quality and sound quality is too good with its 10 w speaker.3 - Connectivity is very fast.4 - Those who are facing difficulty in sound and picture quality , use the hd setup box and hdmi cable to connect setup box and tv , then only you will get better experience of sound and picture quality.5 - Only one cons is that it has no Bluetooth connectivity.READ MORE'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b911,990', 'Name': 'Vijay Irlapati', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Beautiful Product and it’s best in this price range.. LG is best in electronics and Picture quality is awesome \U0001f44dREAD MORE'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b911,990', 'Name': 'Suman Das', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'I like it . Best tv . Value for money . Delivery is also quick, 1day installation ... Overall it is a good choice to buy this TV from Flipkart... Thnks Flipkart .READ MORE'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b98,499', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b98,499', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b98,499', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b927,990', 'Name': 'Pramathesh Dhar', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Picture quality is excellentColors ar natural and not so vibrant. Color temperature is really controlled well.Settings of audio and video has several modes of your choice. I really soke the cinema mode audio. It creates very lod and clear sounds for movies and music.Speakers are so loud that you might not need home theatre.I tried it with Wifi connecting to Airtel Xtreme fiber. It runs buttery smooth.Also I tried it with HD channels on Airtel DTH. The quality of picture and audio is ex...READ MORE'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b927,990', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Super tv..nice picture quality....must buy....\U0001f44d\U0001f44cREAD MORE'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b927,990', 'Name': 'philly eagles', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Nice televisionREAD MORE'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b99,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b99,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'tv', 'ProductName': 'No product name', 'Price': '\u20b99,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}]
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:20:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\csv.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:30:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:30:47] "[33mGET /red HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:30:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:'list' object has no attribute 'keys'
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:31:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:32:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:32:56] "[33mGET /red HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:32:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:'list' object has no attribute 'keys'
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:33:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:34:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:34:46] "[33mGET /red HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:34:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:log my final result [{'Product': 'computer', 'ProductName': 'Infinix INBook Y1 Plus Intel Core i3 10th Gen 1005G1 - ...', 'Price': '\u20b923,990', 'Name': 'omnath alvoor', 'Rating': '2', 'CommentHead': 'Expected a better product', 'Comment': 'They offer free 6 months Microsoft 365 in the flipkart website but its almost 25 days i have not received product key for activating it. When i contacted flipkart they saying there is no such offer\U0001f602, cheaters.About laptop performance is ok. Battery backup is poor, and keyboard not at all good most of the key make some cracking sound while pressing especially both sides. To make people believe there are many purchases, flipkart added other/old laptop into same catalogue so when someone chec...READ MORE'}, {'Product': 'computer', 'ProductName': 'Infinix INBook Y1 Plus Intel Core i3 10th Gen 1005G1 - ...', 'Price': '\u20b923,990', 'Name': 'Kumar Abhisekh', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best Laptop for Students.READ MORE'}, {'Product': 'computer', 'ProductName': 'Infinix INBook Y1 Plus Intel Core i3 10th Gen 1005G1 - ...', 'Price': '\u20b923,990', 'Name': 'suraj uddin', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Amazing at this priceREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Win...', 'Price': '\u20b935,990', 'Name': 'SHYAM SUNDAR  GANDHI ', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Very nice product \U0001f4ab\U0001f4abREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Win...', 'Price': '\u20b935,990', 'Name': 'Bunty Kawde', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Very Nice product, liked it very much , very fast , Battery life is good and speed of processing is also nice , Value worth....READ MORE'}, {'Product': 'computer', 'ProductName': 'HP Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Win...', 'Price': '\u20b935,990', 'Name': 'Saurabh  Dixit', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Good processing speed, better display quality, good battery backup, overall better performance in this price range.READ MORE'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Vinu Viswan', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super productREAD MORE'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Yash Patil', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'just love how apple is in their own league!!READ MORE'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Riya Singh', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Such a great deal.. very happy with the performance and battery life..Origional product..\U0001f970\u2764\ufe0fThank you Flipkart..!!!READ MORE'}, {'Product': 'computer', 'ProductName': 'HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 1...', 'Price': '\u20b939,990', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Nice productREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 1...', 'Price': '\u20b939,990', 'Name': 'Navya Naik', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very ligh weight laptop, processor is fast, slim design , Overall good productREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 1...', 'Price': '\u20b939,990', 'Name': 'Bhagwat Kakde', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'As I expected! This product is osm...go for it....READ MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H -...', 'Price': '\u20b945,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H -...', 'Price': '\u20b945,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H -...', 'Price': '\u20b945,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}]
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 19:35:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 20:05:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 20:05:37] "[33mGET /red HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 20:05:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:log my final result [{'Product': 'computer', 'ProductName': 'HP Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Win...', 'Price': '\u20b935,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'HP Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Win...', 'Price': '\u20b935,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'HP Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Win...', 'Price': '\u20b935,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 1...', 'Price': '\u20b939,990', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Nice productREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 1...', 'Price': '\u20b939,990', 'Name': 'Navya Naik', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very ligh weight laptop, processor is fast, slim design , Overall good productREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 1...', 'Price': '\u20b939,990', 'Name': 'Bhagwat Kakde', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'As I expected! This product is osm...go for it....READ MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H -...', 'Price': '\u20b945,990', 'Name': 'Kumar  Sanu', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': "Review after one week use It's really value for money product \u270c\ufe0fFull Paisa wasul product * I am a programmer my uses1.use VS Code,Anaconda, CodeBlocks,PyCharm,GitHub...etc2. Play GTA 5 ....or others games in full graphics3. Display quality is perfect you can play 4k video4. You can't expect too much things with long battery backupREAD MORE"}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H -...', 'Price': '\u20b945,990', 'Name': 'Sumeet  Yadav ', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': "Writing this review after 5 days of use and i would say I really like this product and i got it at 37k with exchange and other discount. Let me tell you my perspective gaming was not my priority but why i choose this because based on my research and cost prediction I was getting other i5 laptop within same range,so why not choose a laptop with graphics card??. Secondly upgradbility you can put multiple ssd,hdd which u really can't do with other laptop and it gives you accessories to put SSD ...READ MORE"}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H -...', 'Price': '\u20b945,990', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Best for gaming  I play every game on this laptop Far cry 6, gta5, and many more No problem at all\U0001f607Premiere pro, photoshop, blender no issues Budget laptopREAD MORE'}, {'Product': 'computer', 'ProductName': 'ASUS Vivobook Go 15 OLED (2023) Ryzen 5 Quad Core 7520U...', 'Price': '\u20b950,990', 'Name': 'vipin kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'best laptop, only one thing is draw back:- Ram is not upgradableREAD MORE'}, {'Product': 'computer', 'ProductName': 'ASUS Vivobook Go 15 OLED (2023) Ryzen 5 Quad Core 7520U...', 'Price': '\u20b950,990', 'Name': 'Asif Ahmed', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': "Got it 28 march2023, Find it as expected, Super fast and crystel clear it's my first day so I am fully excited while updating and setting it, Battery working as 4 to 7 hours by different settings different result time due to its hd usage, backlit very good of this slim laptop  but I think I have to secure this from dust and needed safe handling of this master piece, If i got any issue i will update that in my review by editing. Sound is little low but I have 50w blutooth speakers so no proble...READ MORE"}, {'Product': 'computer', 'ProductName': 'ASUS Vivobook Go 15 OLED (2023) Ryzen 5 Quad Core 7520U...', 'Price': '\u20b950,990', 'Name': 'Dharmveer Kumar', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': '1) Display is very good 4 ratting2) performance is good 3.5 ratting3) Sound Quality Medium 3 ratting4) build Quality good 4 ratting5) best any other laptop 4 rattingREAD MORE'}]
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\settings.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\http\\server.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\socketserver.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\threading.py', reloading
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 20:05:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 20:08:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 20:08:10] "[33mGET /red HTTP/1.1[0m" 404 -
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:ProductName
+INFO:root:log my final result [{'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b961,999', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world \u2764\ufe0fREAD MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b961,999', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..READ MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b961,999', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'GoodREAD MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b961,999', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..READ MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b961,999', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The night mode can take some really good shots jn low light conditions .The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.READ MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b961,999', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recordingREAD MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b971,999', 'Name': 'Priteshkumar Rana', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Nice phone with great camera. My 1st iPhone and I m loving itREAD MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b971,999', 'Name': 'TAPAL SADDAM', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Super phone . camera is super\U0001f60dREAD MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b971,999', 'Name': 'Jatin Marwal', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Awesome camera qualityREAD MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b962,999', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..READ MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b962,999', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The night mode can take some really good shots jn low light conditions .The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.READ MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b962,999', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recordingREAD MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b971,999', 'Name': 'Priteshkumar Rana', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Nice phone with great camera. My 1st iPhone and I m loving itREAD MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b971,999', 'Name': 'TAPAL SADDAM', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Super phone . camera is super\U0001f60dREAD MORE'}, {'Product': 'iphone', 'ProductName': 'No product name', 'Price': '\u20b971,999', 'Name': 'Selim Choudhury', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I love the pictures and the night mode was awesome.... Mind-blowing product..READ MORE'}]
+INFO:werkzeug:192.168.43.180 - - [18/Oct/2023 20:08:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\topology_description.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\client_options.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\server.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\pool.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\message.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\bulk.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\read_concern.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\older.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'c:\\Users\\Debattam Paul\\Desktop\\Data Science and Artificial Intelligence\\Python for Data Science\\07 Python_Project-Web scrapping, Image Scraper\\Flipcart_review_scrapper\\older.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
