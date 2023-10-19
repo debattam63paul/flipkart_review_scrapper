@@ -314,3 +314,164 @@ INFO:werkzeug: * Debugger PIN: 547-174-317
 WARNING:werkzeug: * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
 INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_entropy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_hypotests.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\scipy\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\scipy\\__config__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\scipy\\__init__.py', reloading
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\tensorflow_estimator\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\tensorflow_io_gcs_filesystem\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\termcolor\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\termcolor\\termcolor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\terminado\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\testpath\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\test_data\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\textdistance\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\text_unidecode\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\three_merge\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\tifffile\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\tifffile\\tifffile.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\tinycss\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\tlz\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\toolz\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\tornado\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\traitlets\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\typed_ast\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\typeguard\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\tzdata\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\unicodecsv\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\urllib3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\urllib3\\filepost.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\urllib3\\poolmanager.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\urllib3\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\urllib3\\util\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\urllib3\\util\\timeout.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\urllib3\\util\\url.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\uvicorn\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\uvicorn\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\uvicorn\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\uvicorn\\server.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\validators\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\validators\\card.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\validators\\extremes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\validators\\hashes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\validators\\i18n\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\validators\\i18n\\fi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\validators\\ip_address.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\validators\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\virtualenv\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\virtualenv\\run\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\virtualenv\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\backends\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\typesets\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\backends\\pandas\\test_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\dtypes\\boolean.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\type.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\generic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\string.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\boolean.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\categorical.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\complex.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\count.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\date.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\date_time.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\file.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\float.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\geometry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\image.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\integer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\ip_address.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\object.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\ordinal.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\path.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\time_delta.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\uuid.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\url.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\time.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\email_address.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\sparse.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\types\\numeric.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\typesets\\typeset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\typesets\\complete_set.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\typesets\\standard_set.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\visions\\typesets\\geometry_set.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\watchdog\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\wcwidth\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\wcwidth\\wcwidth.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\wcwidth\\unicode_versions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\webencodings\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\werkzeug\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\werkzeug\\test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\wheel\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\widgetsnbextension\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\win32ctypes\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\winpty\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\win_unicode_console\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\wordcloud\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\wordcloud\\wordcloud.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.43.180 - - [19/Oct/2023 18:15:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.180 - - [19/Oct/2023 18:15:27] "[33mGET /red HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.180 - - [19/Oct/2023 18:15:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:log my final result [{'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 3 Core i5 11th Gen 1135G7 - (8 GB/5...', 'Price': '\u20b946,990', 'Name': 'Prasad S S', 'Rating': '1', 'CommentHead': 'Horrible', 'Comment': 'Good laptop at the price point.Has warranty issues, hope brand will fix the problem.Lenovo has worse support personnel, lack of knowledge and handling was very evident .Flipkart do not help , so please be careful while you buy expensive products online.READ MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 3 Core i5 11th Gen 1135G7 - (8 GB/5...', 'Price': '\u20b946,990', 'Name': 'Prince Yadav', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Value for money productREAD MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 3 Core i5 11th Gen 1135G7 - (8 GB/5...', 'Price': '\u20b946,990', 'Name': 'nikhil moundekar', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Amazing laptop. Takes only 2-3 seconds to boot.Blazing fast. More than expected package.READ MORE'}, {'Product': 'computer', 'ProductName': 'HP (2023) Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB...', 'Price': '\u20b953,196', 'Name': 'Sanu Pandey', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome product of Hp excellent work and good speed \U0001f60dREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP (2023) Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB...', 'Price': '\u20b953,196', 'Name': 'Mithlesh kumar', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Good product \U0001f44d\U0001f44dREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP (2023) Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB...', 'Price': '\u20b953,196', 'Name': 'Annamma Stephen', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best performanceREAD MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo Legion 5 Pro AMD Ryzen 7 Octa Core 6800H - (32 G...', 'Price': '\u20b91,91,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo Legion 5 Pro AMD Ryzen 7 Octa Core 6800H - (32 G...', 'Price': '\u20b91,91,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo Legion 5 Pro AMD Ryzen 7 Octa Core 6800H - (32 G...', 'Price': '\u20b91,91,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 5 AMD Ryzen 5 Hexa Core 7530U - (16...', 'Price': '\u20b958,990', 'Name': 'ROHIT Thakur', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Absolutely fantastic laptop for work.Good battery life and nice performance.READ MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 5 AMD Ryzen 5 Hexa Core 7530U - (16...', 'Price': '\u20b958,990', 'Name': 'Rit Chatterjee', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': "The laptop provides a smooth work experience with enough power on tap. Usability-wise it's very comfortable. Have been using this for a few weeks now and have not faced any issues both in terms of usability and heating. Would definitely recommend.READ MORE"}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 5 AMD Ryzen 5 Hexa Core 7530U - (16...', 'Price': '\u20b958,990', 'Name': 'Jeba Kumar', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'GoodREAD MORE'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Vinu Viswan', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super productREAD MORE'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Riya Singh', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Such a great deal.. very happy with the performance and battery life..Origional product..\U0001f970\u2764\ufe0fThank you Flipkart..!!!READ MORE'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Mohit  Anand', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': "When i ordered and came to know about seller review,i was scared that in what condition i will get macbook. but i was wrong.This is my first macbook and i am fully satisfied with the product with original packaging of apple and got genuine product.It's very thin and light and looks very premium.As A software developer, i installed intellij idea ide and guess what.It's magic,it is opening just in a click and within 5 seconds.Great performance, no heating issue, sound quality awesome an...READ MORE"}]
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\pymongo\\settings.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\http\\server.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\socketserver.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Debattam Paul\\anaconda3\\Lib\\threading.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 547-174-317
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.180:5000/ (Press CTRL+C to quit)
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:Name
+INFO:root:Rating
+INFO:root:CommentHead
+INFO:root:Comment
+INFO:root:log my final result [{'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 3 Core i5 11th Gen 1135G7 - (8 GB/5...', 'Price': '\u20b946,990', 'Name': 'Prasad S S', 'Rating': '1', 'CommentHead': 'Horrible', 'Comment': 'Good laptop at the price point.Has warranty issues, hope brand will fix the problem.Lenovo has worse support personnel, lack of knowledge and handling was very evident .Flipkart do not help , so please be careful while you buy expensive products online.READ MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 3 Core i5 11th Gen 1135G7 - (8 GB/5...', 'Price': '\u20b946,990', 'Name': 'Prince Yadav', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Value for money productREAD MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 3 Core i5 11th Gen 1135G7 - (8 GB/5...', 'Price': '\u20b946,990', 'Name': 'nikhil moundekar', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Amazing laptop. Takes only 2-3 seconds to boot.Blazing fast. More than expected package.READ MORE'}, {'Product': 'computer', 'ProductName': 'HP (2023) Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB...', 'Price': '\u20b953,196', 'Name': 'Sanu Pandey', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome product of Hp excellent work and good speed \U0001f60dREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP (2023) Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB...', 'Price': '\u20b953,196', 'Name': 'Mithlesh kumar', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Good product \U0001f44d\U0001f44dREAD MORE'}, {'Product': 'computer', 'ProductName': 'HP (2023) Intel Core i5 11th Gen 1155G7 - (16 GB/512 GB...', 'Price': '\u20b953,196', 'Name': 'Annamma Stephen', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best performanceREAD MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo Legion 5 Pro AMD Ryzen 7 Octa Core 6800H - (32 G...', 'Price': '\u20b91,91,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo Legion 5 Pro AMD Ryzen 7 Octa Core 6800H - (32 G...', 'Price': '\u20b91,91,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo Legion 5 Pro AMD Ryzen 7 Octa Core 6800H - (32 G...', 'Price': '\u20b91,91,990', 'Name': 'Name not found', 'Rating': 'No rating', 'CommentHead': 'No comment heading', 'Comment': 'No comment'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 5 AMD Ryzen 5 Hexa Core 7530U - (16...', 'Price': '\u20b958,990', 'Name': 'ROHIT Thakur', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Absolutely fantastic laptop for work.Good battery life and nice performance.READ MORE'}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 5 AMD Ryzen 5 Hexa Core 7530U - (16...', 'Price': '\u20b958,990', 'Name': 'Rit Chatterjee', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': "The laptop provides a smooth work experience with enough power on tap. Usability-wise it's very comfortable. Have been using this for a few weeks now and have not faced any issues both in terms of usability and heating. Would definitely recommend.READ MORE"}, {'Product': 'computer', 'ProductName': 'Lenovo IdeaPad Slim 5 AMD Ryzen 5 Hexa Core 7530U - (16...', 'Price': '\u20b958,990', 'Name': 'Jeba Kumar', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'GoodREAD MORE'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Vinu Viswan', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super productREAD MORE'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Riya Singh', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Such a great deal.. very happy with the performance and battery life..Origional product..\U0001f970\u2764\ufe0fThank you Flipkart..!!!READ MORE'}, {'Product': 'computer', 'ProductName': 'APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Mon...', 'Price': '\u20b994,990', 'Name': 'Mohit  Anand', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': "When i ordered and came to know about seller review,i was scared that in what condition i will get macbook. but i was wrong.This is my first macbook and i am fully satisfied with the product with original packaging of apple and got genuine product.It's very thin and light and looks very premium.As A software developer, i installed intellij idea ide and guess what.It's magic,it is opening just in a click and within 5 seconds.Great performance, no heating issue, sound quality awesome an...READ MORE"}]
+INFO:werkzeug:192.168.43.180 - - [19/Oct/2023 18:16:03] "POST /review HTTP/1.1" 200 -

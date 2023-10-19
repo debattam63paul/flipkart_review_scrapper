@@ -1,4 +1,5 @@
 from flask import Flask, request, render_template
+from flask_cors import CORS,cross_origin
 import requests
 from bs4 import BeautifulSoup as bs
 import csv
@@ -8,10 +9,12 @@ logging.basicConfig(filename="scrapper.log" , level=logging.INFO)
 app= Flask(__name__)
 
 @app.route('/', methods = ['GET'])
+@cross_origin()    # For accessing the function from anywhere globally, from any country
 def homepage():
     return render_template("index.html")
 
 @app.route("/review" , methods = ['POST' , 'GET'])
+@cross_origin()
 def index():
     if request.method == 'POST':
         try:
