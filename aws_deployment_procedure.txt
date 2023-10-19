@@ -1,0 +1,20 @@
+Push the entire code into github repository from vscode
+From github push the entire things into aws for deployment.
+In aws use to services, codepipeline and aws beanstack.
+From github push the code into codepipeline, from code pipeline deploy over beanstack.
+Beanstack will give the resources in terms of cpu, RAM, HardDisk as a cloud.
+Using codepipeline we are able to connect github repo to BeanStack.
+
+
+
+go aws management console website
+create account
+search elastic beanstack and create application over there.
+search codepipeline and create a new pipeline, give application name same as beanstack
+Then autometically deployment will be done and url will be given.
+Deployed global Url will be shown in beanstack webpage.
+Go to actions and terminate environment.
+
+
+
+
